@@ -1,0 +1,15 @@
+com\mycompany\baches\control\TipoObjetoBean.class
+com\mycompany\baches\entity\resources\Objeto.class
+com\mycompany\baches\entity\resources\TipoObjeto.class
+com\mycompany\baches\entity\resources\ObjetoEstado_.class
+com\mycompany\baches\entity\resources\Estado.class
+com\mycompany\baches\boundary\JavaEE8Resource.class
+com\mycompany\baches\control\BeanDePrueba.class
+com\mycompany\baches\entity\resources\Objeto_.class
+com\mycompany\baches\control\AbstractDataAccess.class
+com\mycompany\baches\entity\resources\ObjetoEstado.class
+com\mycompany\baches\entity\resources\TipoObjeto_.class
+com\mycompany\baches\entity\resources\Ruta_.class
+com\mycompany\baches\entity\resources\Estado_.class
+com\mycompany\baches\boundary\JAXRSConfiguration.class
+com\mycompany\baches\entity\resources\Ruta.class
